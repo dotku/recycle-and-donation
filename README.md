@@ -4,7 +4,7 @@
 
 1. What's the best way to recycle for maxiumized benefit, eg tax deduction?
 
-# Rcycle programs in San Francisco
+# Recycle and donation programs in San Francisco
 
 San Francisco is known for its progressive environmental policies and has several programs and initiatives to encourage recycling and waste reduction. Here are some key programs and resources you might find useful:
 
