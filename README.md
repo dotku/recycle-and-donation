@@ -32,7 +32,7 @@ San Francisco is known for its progressive environmental policies and has severa
 
 9. Tonerbuyer
 
-> the minimum empty cartridge shipment we can accept, and pay the shipping charges, is (8) laser cartridges or (25) inkjet cartridges of any combination. If you are shipping both lasers and inkjets, then one or the other minimum requirements must be met.
+    > the minimum empty cartridge shipment we can accept, and pay the shipping charges, is (8) laser cartridges or (25) inkjet cartridges of any combination. If you are shipping both lasers and inkjets, then one or the other minimum requirements must be met.
 
 San Francisco's programs are quite comprehensive, and the city aims to achieve zero waste. By participating in these programs and staying informed about best practices, you can contribute significantly to these environmental goals. For the most current information and any specific questions about recycling programs or tax deductions, it's a good idea to contact the relevant city department or a tax professional.
 
